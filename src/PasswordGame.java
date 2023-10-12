@@ -34,7 +34,7 @@ public class PasswordGame {
 				System.out.println("Correct! L { 9 $ 5 \nYou guessed the password! GG! :D");
 				correct = correct + 1; 	
 			} else if (lastInput.equals("L{9$5") && correct >= 1) {
-				System.out.println("Correct! L { 9 $ 5 \nYou guessed the password! GG! :D");
+				System.out.println("Correct! \nYou guessed the password! GG! :D");
 				correct = 6; 	
 			} else if (correct >= 1 && correct < 6){
 				miss = miss + 1;

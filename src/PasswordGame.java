@@ -8,7 +8,6 @@ public class PasswordGame {
 		System.out.println("Welcome to the Password Game! \nType start to start.");
 		
 		String lastInput = In.nextLine(); 
-		String thePassword = "L????"; 
 		int miss = 0;
 		int correct = 0; 
 		
@@ -44,9 +43,9 @@ public class PasswordGame {
 					System.out.print("Too many failed attempts. GAME OVER - Press ctrl+F11\n");
 				}
 			}
-			
+		
 		}
-
+		In.close();
 	}
 
 }

@@ -84,7 +84,7 @@ public class Blackjack {
 				}
 				if (input.equals("f")) {
 					System.out.println(
-							"You loose. Your oppenent had these cards: (toal: " + (a[0] + a[1]) + ")  " + a[0] + "  " + a[1]);
+							"You lose. Your oppenent had these cards: (toal: " + (a[0] + a[1]) + ")  " + a[0] + "  " + a[1]);
 					over = true;
 				}
 			}

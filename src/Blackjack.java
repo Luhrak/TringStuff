@@ -78,7 +78,7 @@ public class Blackjack {
 				}
 				if (input.equals("c")) {
 					// Your cards
-					// oppenments cards
+					// opponents cards
 					// win / lose
 					over = true;
 				}

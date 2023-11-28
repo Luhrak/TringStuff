@@ -67,6 +67,7 @@ public class Blackjack {
 	}
 }
 /*
+ * ++Winstreak! 
  * Welcome d to draw > get 2 random (always below 21) > Ai gets a random numer
  * (6-20)
  * 

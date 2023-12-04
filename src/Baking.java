@@ -8,10 +8,6 @@ public class Baking {
 		String recipe; 
 		recipe = in.nextLine();
 		
-		if (recipe == 1) { 
-			
-		}
-		
 		
 		
 		
